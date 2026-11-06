@@ -1,0 +1,16 @@
+id,question,faithfulness,relevancy,correctness
+1,What is the capital of France?,0.0,0.0,0.0
+2,How does photosynthesis work?,0.0,0.0,0.0
+3,What are the health benefits of green tea?,0.0,0.0,0.0
+4,Explain the theory of relativity briefly.,0.0,0.0,0.0
+5,What causes seasons on Earth?,0.0,0.0,0.0
+6,How do black holes form?,0.0,0.0,0.0
+7,What is the function of mitochondria?,0.0,0.0,0.0
+8,Explain how a web search engine works.,0.0,0.0,0.0
+9,What is machine learning?,0.0,0.0,0.0
+10,How does the human immune system respond to viruses?,0.0,0.0,0.0
+11,What is blockchain technology?,0.0,0.0,0.0
+12,Why is the sky blue?,0.0,0.0,0.0
+13,What is GDP in economics?,0.0,0.0,0.0
+14,How do vaccines work?,0.0,0.0,0.0
+15,What is quantum computing?,0.0,0.0,0.0
